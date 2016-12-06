@@ -15,7 +15,6 @@ Contents:
    :maxdepth: 2
 
    purpose
-   UBCpurpose
    relationship
    features
    importantfeatures
