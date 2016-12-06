@@ -1,78 +1,49 @@
-The IT Architecture of the UBN Project
-======================================
+The IT repository of the UBC and other tasks
+===========================================
 
-General Architecture
+Below are the repositories for the UBC and other projects
+
+UBC repository
 --------------------
 
-- Door43/en-ubn
-    - This is the UBN home page that contains pertinent information and links to all the other UBN repos.
-- Door43/en-ubn-articles
-    - This repo contains the articles that will be linked from both the UBN notes and UBC.
-- Door43/en-ubn-xxx 
-    - Each biblical book has its own repo.
+These are the repositories established for the UBC in general, and for the Gospels of Luke and John in particular. You can compose commentary material in Microsoft Word or Notepad, but remember to use markdown language. You must then copy and paste the file's contents into the correct place.
 
-Door43/en-ubn 
-----
-
-Homepage of the UBN
-
-1. Location of all files that are for global reference/use
-
-2. Links to all other biblical book repos on the main readme file.
-
-3. The explanation of the UBN project
-
-4. The volunteer job description
-
-5. A link to this present document
+The main repository for the UBC - https://git.door43.org/Door43/en-ubc 
+Luke - https://git.door43.org/Door43/en-ubc-luk
+John - https://git.door43.org/Door43/en-ubc-jhn
 
 
-Door43/en-ubn-xxx
-----
 
+UBN Repository
+--------------
+
+https://git.door43.org/Door43/en-ubn - the UBN home page that contains information pertinent and links to all the other UBN repos
+
+https://git.door43.org/Door43/en-ubn-articles - the repo that contains the articles that will be linked from both the UBN notes and UBC.
+
+https://git.door43.org/Door43/en-ubn-articles/src/master/rejected.md - the repo containing rejected proposals for articles.
+
+
+Door43/en-ubc-xxx
+-----------------
 (where xxx = three-letter code for any biblical book). 
 
-Here is where to locate the working files for the UBN (i.e., the files containing the notes as they are being composed and edited):
+Here is where to locate the working files for the UBC (i.e., the files containing the notes as they are being composed and edited):
 
-- All writers and manager-revisers will do their work online in one of these repositories. Each biblical book repository will contain the working notes created for that book.
-- Each chapter of the book will have its own file. For example: Luke 1 will have the following chapter URL: https://git.door43.org/Door43/en-ubn-luk/src/master/content/01.md  
-
-So that the directory tree for any book will look like: 
+Each book has a directory of the chapters. Each chapter has a directory of pages. So that the directory tree for any book will look like: 
 
 .. code-block:: none
 
     en-ubn-xxx/
         |.github
         |content/
-        |    |01.md
-        |    |02.md
+        |    |01
+        |    |    |01.md 
+        |    |02
+        |    |    |01.md
         |    |intro.md
         |license
         |readme.md
 
-
 The content directory (Psalms will be 3 digit numbers) shown above indicate chapter numbers and the Introduction to the Book page.
 
-
-Door43/en-ubn-articles
-----
-
-In this repo are articles that will be linked from both the UBN and UBC. https://git.door43.org/Door43/en-ubn-articles
-
-- Here is where to locate the working files for the glossary and articles - as they are being composed and edited.
-- The ‘rejected’ file with the list of items requested that have been rejected by manager-revisers as necessary. 
-- Each glossary and article item will have its own folder in the content folder in the repository. 
-    - The Glossary entry will be the 01.md file in the folder. The working glossary entries as they are proposed and then written by the UBN team or others.
-    - The Article entry will be the 02.md file in the topic folder. The working articles as they are requested by the UBN team and then written by the UBC team or others.
-  So that the directory tree will look like:
-  
-  
-.. code-block:: none
-  
-      content/
-            |-Topic/
-            |   |-01.md
-            |   |-02.md
-           
-
-REMARK: however, we expect that some articles will not be associated with any glossary term.
