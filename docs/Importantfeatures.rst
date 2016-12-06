@@ -1,6 +1,6 @@
-Important features in the UBC. 
-=====================
-Following are some important features of the UBC.
+Important features in the UBC
+=============================
+Following are some important features of the UBC
 
 Ease of translation and adaptation into other languages
 --------------------------------------------------------
