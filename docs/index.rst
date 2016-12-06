@@ -15,12 +15,11 @@ Contents:
    :maxdepth: 2
 
    purpose
+   UBCpurpose
    relationship
    features
-   tagging
-   procedures
-   tips
-   management
+   importantfeatures
+   repository
    architecture
    appendices
    
