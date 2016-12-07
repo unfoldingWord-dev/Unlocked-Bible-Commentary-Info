@@ -18,7 +18,6 @@ Contents:
    relationship
    features
    importantfeatures
-   repository
    architecture
    management
    appendices
