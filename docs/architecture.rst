@@ -34,7 +34,7 @@ Each book has a directory of the chapters. Each chapter has a directory of pages
 
 .. code-block:: none
 
-    en-ubn-xxx/
+    en-ubc-xxx/
         |.github
         |content/
         |    |01
