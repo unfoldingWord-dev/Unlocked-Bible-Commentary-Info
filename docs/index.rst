@@ -20,6 +20,7 @@ Contents:
    importantfeatures
    repository
    architecture
+   management
    appendices
    
    
