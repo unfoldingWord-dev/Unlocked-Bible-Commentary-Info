@@ -9,7 +9,9 @@ UBC repository
 These are the repositories established for the UBC in general, and for the Gospels of Luke and John in particular. You can compose commentary material in Microsoft Word or Notepad, but remember to use markdown language. You must then copy and paste the file's contents into the correct place.
 
 The main repository for the UBC - https://git.door43.org/Door43/en-ubc 
+
 Luke - https://git.door43.org/Door43/en-ubc-luk
+
 John - https://git.door43.org/Door43/en-ubc-jhn
 
 
