@@ -36,16 +36,16 @@ Each book has a directory of the chapters. Each chapter has a directory of pages
 
 .. code-block:: none
 
-    en-ubc-xxx/
-        |.github
+en-ubc-xxx/
+        |.github
         |content/
-        |    |01
-        |    |    |01.md 
-        |    |02
-        |    |    |01.md
-        |    |intro.md
-        |license
-        |readme.md
+        |    |01
+        |    |    |01.md
+        |    |02
+        |    |    |01.md
+        |LICENSE
+        |README.md
+        
 
 The content directory (Psalms will be 3 digit numbers) shown above indicate chapter numbers and the Introduction to the Book page.
 
