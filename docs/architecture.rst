@@ -36,13 +36,13 @@ Each book has a directory of the chapters. Each chapter has a directory of pages
 
 .. code-block:: none
 
-en-ubc-xxx/
+    en-ubc-xxx/
         |.github
         |content/
-        |    |01
-        |    |    |01.md
-        |    |02
-        |    |    |01.md
+        |  |01
+        |     |01.md
+        |  |02
+        |     |01.md
         |LICENSE
         |README.md
         
