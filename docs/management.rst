@@ -1,4 +1,4 @@
-The Management Structure in the UBN Project
+The Management Structure in the UBC Project
 ===========================================
 
 Training Department Manager: Christine Jarka
@@ -7,15 +7,14 @@ Training Department Manager: Christine Jarka
 
 Prototype phase (Nov. 2016 - Jan. 2017)
 
-- **Prototype Team**: (listed alphabetically) Andrew Belcher, Nils Friberg, John Hutchins, Paul Montague, Shirley Ralston, Larry Sallee, (David Whisler)
-
 - **Prototype working structure**
-   - Gospel of Luke team: Andrew, Paul, Shirley
-   - Gospel of John team: John, Nils
+   - Gospel of Luke team: Drew, Larry, Wesley, George, and Bianca
+   - Gospel of John team: Drew, Harry and Keith
+   
 - **Managers-revisers**: 
-   Andrew and John
+ 
 
 - **General UBN editor**: 
-   Larry
+   Drew
 
-**Remark**: our goal will be to have all of you, as you grow into the UBN work and if you are willing, to become potential manager-revisers for other UBN workers.
+**Remark**: our goal will be to have all of you, as you grow into the UBC work and if you are willing, to become potential manager-revisers for other UBC workers.
