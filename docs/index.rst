@@ -18,6 +18,7 @@ Contents:
    relationship
    features
    importantfeatures
+   tagging
    architecture
    management
    appendices
